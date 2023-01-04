@@ -1,3 +1,5 @@
+**Muallif: Boliyev Firdavs**
+
 ![image](https://user-images.githubusercontent.com/121484707/210562071-a813bbae-65be-4d81-a54f-3c1273ba8ba7.png)
 
 **Sotish**
