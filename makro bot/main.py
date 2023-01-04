@@ -2,7 +2,7 @@ import aiogram
 import logging
 from aiogram import Bot, Dispatcher, executor, types
 from aiogram.types import InputFile, InlineKeyboardButton, InlineKeyboardMarkup
-import makro_kp as mk
+import keyboards as mk
 
 API_TOKEN = '5685410019:AAG8j3gz3v_ClFbnjwBCrehTcthXESH3epc'
 
