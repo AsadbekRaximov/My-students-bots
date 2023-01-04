@@ -1,6 +1,5 @@
 **Loyiha muallifi: Samandar Otabayev**
-
-![image](https://user-images.githubusercontent.com/121484707/210564876-fce8e441-9b8b-4909-91f7-ea9c7091a990.png)
+![image](https://user-images.githubusercontent.com/121484707/210565754-27cbd718-3d67-400a-a291-e306e724ae24.png)
 
 ![image](https://user-images.githubusercontent.com/121484707/210564945-5007b19d-84a5-46d2-848b-a0e8e95df64e.png)
 
