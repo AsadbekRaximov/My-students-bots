@@ -1,5 +1,7 @@
 **Viloyatlar bot** 
+
 **Muallif: Abdulazizov MuhammadOzod**
+
 **Ustoz: Raximov Asadbek**
 
 ![image](https://user-images.githubusercontent.com/121484707/210511204-20b57b0b-ac3f-4fe7-be41-106ae841fa5e.png)
