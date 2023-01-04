@@ -4,8 +4,8 @@ from aiogram.dispatcher import Dispatcher
 from aiogram.utils import executor
 from aiogram.types import ReplyKeyboardMarkup, KeyboardButton, ReplyKeyboardRemove, ContentType
 
-ADMINS = [5595643654]
-API_TOKEN = "5904347795:AAFlB2Ce4A6_7WvjXPDhZFhpvaHbWz1D0x4"
+ADMINS = []
+API_TOKEN = ""
 bot = Bot(token=API_TOKEN)
 dp = Dispatcher(bot)
 
